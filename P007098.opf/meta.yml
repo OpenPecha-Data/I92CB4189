@@ -5,11 +5,13 @@ source_metadata:
   title: བོད་ཀྱི་སྲོལ་རྒྱུན་སྐྱོང་ཐུབ་པའི་འཕེལ་རྒྱས་འདུ་ཤེས་ཀྱི་ཡིག་ཆ་བདམས་བསྒྲིགས།（དགེ་རྒན་གྱི་ཁྲིད་དེབ།）
   author: ''
   volumes:
-    52e1edf3aa0744bc844b7f7699726cea:
+    1a611498eab84ecc89acd97dca0fdc04:
       image_group_id: I4PD4354
-      title: ''
+      title: Volume 1 of bod kyi srol rgyun skyong thub pa'i 'phel rgyas 'du shes
+        kyi yig cha bdams bsgrigs/[（dge rgan gyi khrid deb/）
       volume_number: 1
       total_pages: 358
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་སྲོལ་རྒྱུན་སྐྱོང་ཐུབ་པའི་འཕེལ་རྒྱས་འདུ་ཤེས་ཀྱི་ཡིག་ཆ་བདམས་བསྒྲིགས།（དགེ་རྒན་གྱི་ཁྲིད་དེབ།）
   author: ''
